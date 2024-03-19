@@ -1,4 +1,4 @@
-Econometrics / Operations research Enthusiast 
+- Econometrics / Operations research / Data Science
 
-Feel free to read my projects
+- Feel free to read my projects
 
